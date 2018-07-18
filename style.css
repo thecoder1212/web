@@ -1,0 +1,66 @@
+.mainback {
+    background-image: url(./mainback.jpg);
+    width:102%;
+    height:24cm;
+    margin-top:-1%;
+    margin-left:-0.5%;
+    opacity:85%;
+    background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+ }
+.start{
+    margin-top:-35%;
+    margin-left:35%;
+    font-size: 100px;
+    color:black;
+    opacity:0.5;
+}
+.idea1 {
+    margin-left:28%;
+    margin-top:-4%;
+}
+.line{
+    background-color: white;
+    width:20cm;
+    height:20px;
+    margin-left:27%;
+    margin-top:-3.6%;
+}
+.idea2 {
+    margin-left:45%;
+    color: black;
+    margin-top: -0.1%;
+}
+.idea3 {
+    margin-left:60%;
+    margin-top: -2.3%;
+}
+.description {
+    color:white;
+    margin-top:-55%;
+    opacity: 0.9999;
+    font-family: impact;
+}
+.second_page {
+    background-image: url(./binary.jpg);
+    width:51%;
+    height:24cm;
+    margin-top:-54.5%;
+    margin-left:-0.49%;
+    opacity:0.6;
+}
+.third_page {
+    background-image: url(./prime.jpg);
+    width:51%;
+    height:24cm;
+    margin-top:26.6%;
+    margin-left:50.5%;
+    opacity:0.6;
+    text-align: left;
+}
+.des {
+    margin-left:55%;
+    margin-top:-7%;
+}
